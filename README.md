@@ -1,4 +1,4 @@
-# PROJETO DE CONTROLE DE ESTACIONAMENTO DE CONDOMÍNIOS
+# Projeto de Controle de Estacionamento de Condomínios
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/luancolombo/parking_control/blob/main/license) 
 
 # Sobre o projeto
